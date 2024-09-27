@@ -1,8 +1,7 @@
 # Hi there 👋, I am Naeem
-
 Learner, software developer, and problem solver.
 
----
+
 
 ### 🌱 I’m currently learning DSA and Django
 I'm a competitive programmer and a **Pupil** on [Codeforces](https://codeforces.com/profile/ByteBlast). I also enjoy learning new technologies to enhance my skills.
