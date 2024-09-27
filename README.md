@@ -50,7 +50,7 @@ I'm a competitive programmer and a **Pupil** on [Codeforces](https://codeforces.
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-link/)
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/Naeem739)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/your-link)
-[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/ByteBlast)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ByteBlast&style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ByteBlast)
 ---
 
 ### 📊 Most Used Languages & GitHub Stats:
