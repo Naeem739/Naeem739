@@ -1,6 +1,4 @@
-
 # Hi there 👋, I am Naeem
-
 
 Learner, software developer, and problem solver.
 
@@ -11,45 +9,49 @@ I'm a competitive programmer and a **Pupil** on [Codeforces](https://codeforces.
 
 ---
 
-### 🔧 Skills: 
-- **Languages**: C++, Python, JavaScript, PHP
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: PHP, Django
-- **Database**: SQL, SQLite
 
----
+#### 🏆 Competitive Programming:
+- **Languages**: C++, Python, JavaScript
+- **Algorithms & Data Structures**: Sorting, Searching, Graph Algorithms, Dynamic Programming, Greedy Algorithms, Trees, Binary Search, etc.
+- **Problem-Solving Platforms**: Codeforces, LeetCode, CodeChef, AtCoder, LightOJ, SpoJ.
 
-### 🚀 I'm working on improving my problem-solving skills and exploring web development.
-
----
-
-### 📫 How to reach me:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shawmitra.das)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naeem739)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)
-[![Codeforces](https://img.shields.io/badge/dynamic/json?label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ByteBlast&style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ByteBlast)
+#### 💻 Web Development:
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, PHP, Django
+- **Database**: MongoDB, SQL, SQLite
 
 
 ---
+
 
 
 ### 🛠️ Languages and Tools:
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
-[![CP Editor](https://img.shields.io/badge/CP_Editor-239120?style=for-the-badge&logo=cpeditor&logoColor=white)](https://github.com/cpeditor/cpeditor)
-[![Code::Blocks](https://img.shields.io/badge/Code::Blocks-070098?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org/)
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Terminal" width="40" height="40"/>
+</p>
 
 ---
 
-
+### 📫 How to reach me:
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shawmitra.das)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-link/)
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/Naeem739)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/your-link)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/ByteBlast)
+---
 
 ### 📊 Most Used Languages & GitHub Stats:
 
@@ -75,5 +77,3 @@ I'm a competitive programmer and a **Pupil** on [Codeforces](https://codeforces.
     <td align="center"><b>4</b><br>Longest Streak<br><i>Aug 1, 2023 - Aug 4, 2023</i></td>
   </tr>
 </table>
-
-
