@@ -45,7 +45,7 @@ I'm a competitive programmer and a **Pupil** on [Codeforces](https://codeforces.
 ---
 
 ### 📫 How to reach me:
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shawmitra.das)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/AreFin2Naeem)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-link/)
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/Naeem739)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/your-link)
